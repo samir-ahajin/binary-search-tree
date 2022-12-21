@@ -3,17 +3,29 @@
 bst.js functions:
 
 buildTree() - builds the node objects from a sorted array.
+
 insert() - accepts a value and insert it in the tree.
+
 delete() - accepts a value and remove the value from the tree, depends on the tree structure
+
 find() - accepts a value an returns the node value
+
 levelOrder() -returns Level Order List of the tree.
+
 levelOrderRecur() - recursion Level Order List 
+
 preOrder() - returns PreOrder List of the tree.
+
 inOrder() - returns InOrder List of the tree.
+
 PostOrder() - returns PostOrder List of the tree.
+
 height() - returns longest path of the tree.
+
 isBalanced() - checks the tree if it is balanced.
+
 reBalance() - rebalance the tree.
+
 getNode() - returns the left and right node value of the current node given.
 
 Sample output in the console:
