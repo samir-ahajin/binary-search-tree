@@ -1,6 +1,7 @@
 # binary-search-tree
 
-bst.js functions:
+Generates a random every time you reload the page.
+[Check the console in the browser](https://samir-ahajin.github.io/binary-search-tree/)
 
 buildTree() - builds the node objects from a sorted array.
 
