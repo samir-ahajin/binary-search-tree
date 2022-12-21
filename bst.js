@@ -2,6 +2,7 @@ import Node from "./node.js";
 
 export default class Tree {
   constructor(array) {
+    this.array = array;
     this.sortedArr = [...new Set(array.sort((val, val2) => val - val2))];
     this.root = this.buildTree(this.sortedArr);
   }
